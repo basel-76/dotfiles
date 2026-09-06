@@ -59,3 +59,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = basel.m.alzahrani@gmail.com
+	name = Basel Al-Zahrani
